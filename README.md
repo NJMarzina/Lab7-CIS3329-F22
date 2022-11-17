@@ -5,3 +5,9 @@ You will write both a client and server – here the client would always be loop
 server – as it is a chat program. You will use UDP as the transport.
 To finish this lab, you need at least three part: (1) A main function (parent thread), (2) A 
 receiving function (The first child thread), and (3) A sending function (The second child thread)
+
+#Open command prompt
+#enter cd desktop (if files are on desktop)
+#py client_in_lab py
+##repeat for server_in_lab
+#enter usernames, and send messages
